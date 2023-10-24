@@ -1,4 +1,8 @@
-# README for Disphotoplay #
+<h1>Hello, welcome to my AP assignment from 12th Grade!</h1>
+Truthfully, this is more of a showcase application of the first solo project I ever made. I made this in code.org for our AP Computer Science Principles AP Application Test. This is a simple photo album displayer I made where you can input images and even add different properties to it.
+It taught me a lot and used everything from JavaScript to get me started, from arrays to variables to simple functions.
+---------------------------
+This is the README file that came from exporting the app from Code.Org.
 
 This is the README file for the Disphotoplay app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
